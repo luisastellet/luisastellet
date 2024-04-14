@@ -2,11 +2,19 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c71585&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luisa+Muniz+Stellet.;I+am+19+yars+old.;I+am+from+Niterói+-+RJ.;I+study+Computer+Computer+Science+at+UFF.;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisastellet&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=E664CD&text_color=c9d1d9&bg_color=0d1117" alt="Luisa Muniz Stellet github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisastellet&layout=compact&hide_border=true&title_color=c71585&text_color=E664CD&bg_color=0d1117" />
 </div>
+-->
 
+<img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisastellet&show_icons=true&count_private=true&langs_count=8&theme=tokyonight&hide_border=true&title_color=c71585&icon_color=E664CD&text_color=c9d1d9&bg_color=0d1117" alt="Luisa Muniz Stellet github stats"/>
+<div align="right">
+<img height="180px"  src="https://github-readme-stats.vercel.app/api?username=luisastellet&show_icons=true&title_color=c71585&&icon_color=E664CD&text_color=c9d1d9&bg_color=0d1117&custom_title=luisastellet's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=luisastellet&theme=tokyonight&hide_border=true&text_color=#c71585&bg_color=#0d1117"/>
+</div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisastellet&bg_color=000000&color=c71585&line=E664CD&point=911f67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
