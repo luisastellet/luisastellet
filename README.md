@@ -17,7 +17,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisastellet&bg_color=000000&color=c71585&line=E664CD&point=911f67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráficos das minhas atividades no github](https://github-readme-activity-graph.vercel.app/graph?username=luisastellet&bg_color=000000&color=c71585&line=E664CD&point=911f67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/luisastellet/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
